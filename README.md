@@ -1,6 +1,9 @@
-# React training app
+# Tic-tac-toe game
 
-## Tic-tac-toe
+## Used stack
+* ReactJS
+
+## Run
 
 ```
 git clone git@github.com:ielkanyuk/react-training-app.git
