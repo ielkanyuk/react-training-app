@@ -6,7 +6,7 @@
 ## Run
 
 ```
-git clone git@github.com:ielkanyuk/react-training-app.git
+git clone git@github.com:ielkanyuk/tic-tac-toe.git
 npm install
 npm start
 ```
